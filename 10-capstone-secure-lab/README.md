@@ -45,7 +45,7 @@ secure-lab/
 ```
 
 ## Deployment
-This capstone project is designed to be deployed in a virtualized or cloud environment. See the detailed deployment guide in the documentation folder.
+This capstone project is designed to be deployed in a virtualized or cloud environment. Detailed deployment guides and architecture documentation will be included in the documentation/ folder.
 
 ## Assessment Criteria
 - Security architecture design
